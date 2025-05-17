@@ -1,2 +1,2 @@
-API_KEY = "cc2f33520a35b9ead78f30d6ec0d7382"
+API_KEY = "Your api"
 
